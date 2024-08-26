@@ -1,3 +1,6 @@
+# My progress - Tracking
+- 🏃‍♂️‍➡️[CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
+
 # CUDA MODE Resource Stream
 [![](https://dcbadge.vercel.app/api/server/cudamode?style=flat)](https://discord.gg/cudamode)
 
