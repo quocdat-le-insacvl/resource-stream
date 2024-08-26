@@ -1,5 +1,8 @@
-# My progress - Tracking
-- 🏃‍♂️‍➡️[CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
+# My Progress - Tracking - This is my trying
+
+| Status | Task | Start Date/Time | End Date/Time |
+|--------|------|-----------------|---------------|
+| In Progress | 🏃‍♂️ [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/) | 2024-08-26 03:00 | |
 
 # CUDA MODE Resource Stream
 [![](https://dcbadge.vercel.app/api/server/cudamode?style=flat)](https://discord.gg/cudamode)
